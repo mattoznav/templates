@@ -1,0 +1,6 @@
+[submodule "cinema"]
+	path = cinema
+	url = https://github.com/mattoznav/templates-cinema.git
+[submodule "wardrobe"]
+	path = wardrobe
+	url = https://github.com/mattoznav/templates-wardrobe.git
