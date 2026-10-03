@@ -1,7 +1,7 @@
 # Templates
 
 A collection of ready-to-adapt product templates for different kinds of businesses.
-Each template ships as a set of products designed to work together: a public website, an admin back office and a customer app.
+Each template ships as a set of products designed to work together: a public website, an admin back office, a customer app and the backend API behind them.
 
 | Template | For |
 | --- | --- |

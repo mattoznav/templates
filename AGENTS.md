@@ -26,7 +26,7 @@ Everything committed here is written as if the repository were already public.
 ## Structure
 
 - Each business vertical (for example `cinema`, `wardrobe`) is a submodule with its own repository.
-- Inside each vertical, each product (`website`, `admin`, `customer-app`) is a submodule with its own repository.
+- Inside each vertical, each product (`website`, `admin`, `customer-app`, `backend`) is a submodule with its own repository.
 - Repository names follow `templates-<vertical>` and `templates-<vertical>-<product>`.
 
 ## Before making a repository public
