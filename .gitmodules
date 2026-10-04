@@ -4,3 +4,6 @@
 [submodule "wardrobe"]
 	path = wardrobe
 	url = https://github.com/mattoznav/templates-wardrobe.git
+[submodule "finance"]
+	path = finance
+	url = https://github.com/mattoznav/templates-finance.git

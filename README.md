@@ -1,12 +1,13 @@
 # Templates
 
 A collection of ready-to-adapt product templates for different kinds of businesses.
-Each template ships as a set of products designed to work together: a public website, an admin back office, a customer app and the backend API behind them.
+Each template ships as the set of products the business needs: for a shop or a cinema, a public website, an admin back office, a customer app and the backend API behind them; for a local-first tool, a single desktop app.
 
 | Template | For |
 | --- | --- |
 | [`cinema`](cinema) | Cinemas: listings, showtimes, tickets |
 | [`wardrobe`](wardrobe) | Clothing stores: catalogue, sizes, orders |
+| [`finance`](finance) | Personal finance and investments, encrypted on the user's device |
 
 ## Getting started
 
