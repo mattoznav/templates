@@ -7,3 +7,6 @@
 [submodule "finance"]
 	path = finance
 	url = https://github.com/mattoznav/templates-finance.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/mattoznav/templates-wiki.git
