@@ -10,3 +10,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/mattoznav/templates-wiki.git
+[submodule "bnb"]
+	path = bnb
+	url = https://github.com/mattoznav/templates-bnb.git
