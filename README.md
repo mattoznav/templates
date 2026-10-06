@@ -13,6 +13,15 @@ Each template ships as the set of products the business needs: for a shop or a c
 
 Every brand, person and business in the demo data is fictional. The `wiki` template uses real game data from PokéAPI and is an unofficial fan reference. The `bnb` model is dressed with CC0 assets from Poly Haven.
 
+## Live demos
+
+The public websites are published with GitHub Pages from their own repositories. The cinema and the shop run as static showcases, without their backend: accounts, bookings and orders are kept in the visitor's browser and no payment is taken.
+
+- Cinema: [mattoznav.github.io/templates-cinema-website](https://mattoznav.github.io/templates-cinema-website/)
+- Clothing store: [mattoznav.github.io/templates-wardrobe-website](https://mattoznav.github.io/templates-wardrobe-website/)
+- Wiki: [mattoznav.github.io/templates-wiki-website](https://mattoznav.github.io/templates-wiki-website/)
+- B&B: [mattoznav.github.io/templates-bnb-website](https://mattoznav.github.io/templates-bnb-website/)
+
 ## Requirements
 
 Install only what the template you want to run needs:
