@@ -52,3 +52,7 @@ Each product also has its own README with the details: data model, API, payment 
 ## Contributing
 
 Read [`AGENTS.md`](AGENTS.md) before committing anything.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Each template keeps the licenses of its own third-party data, listed in its README.
